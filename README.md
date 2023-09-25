@@ -21,15 +21,15 @@ Here I feature and highlight my best projects that I'm proud of:
 1. *__Toy programming language__* ([Source code](https://github.com/it1shka/toylang)) <br> An interpreted scripting language implemented
 with zero dependencies in ~5k lines of modern C++17 using RAII.
 2. *__Distrosim__* ([Source code](https://github.com/it1shka/distrosim)) <br>
-![Distrosim Preview](distrosim-preview.gif)
+![Distrosim Preview](distrosim-preview.gif) <br>
 Fullstack application for distributed systems simulations.
 Back-end in Golang, front-end in Vanilla TypeScript
 3. *__Online Tic Tac Toe__* ([Source code](https://github.com/it1shka/tictactoe-online)) <br>
-![TicTacToe Preview](tictactoe-preview.gif)
+![TicTacToe Preview](tictactoe-preview.gif) <br>
 Fullstack application with WebSockets server, built-in chat
 and fascinating interface.
 4. *__Travelling Salesman Visualiser__* ([Source code](https://github.com/it1shka/tsp-visual)) <br>
-![TSP Preview](tsp-preview.gif)
+![TSP Preview](tsp-preview.gif) <br>
 Application built to visualize TSP problem.
 5. *__Messenger__* ([Source code](https://github.com/it1shka/messenger)) <br>
 Messenger built with TypeScript, React and Firebase
