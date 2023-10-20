@@ -17,6 +17,13 @@ and a lot of other programming-related topics.
 I am presently pursuing my __Bachelor's degree__ in __Applied Computer Science in English__ at __Wroclaw University of Science and Technology__. My Grade Point Average (GPA) stands at __5.4__ out of a __maximum of 5.5__.
 
 ## Portfolio
+
+### New!
+*__Material Visualization__* for Sofixit 'Code Wars' Challenge 
+([Source code](https://github.com/it1shka/material-visualization), [Website](https://it1shka.github.io/material-visualization/)) <br>
+![Preview](mat-vis.gif) <br>
+Visualization of algorithm written for challenge by Sofixit team
+
 Here I feature and highlight my best projects that I'm proud of:
 1. *__Toy programming language__* ([Source code](https://github.com/it1shka/toylang)) <br> An interpreted scripting language implemented
 with zero dependencies in ~5k lines of modern C++17 using RAII.
