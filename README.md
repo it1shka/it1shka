@@ -6,6 +6,9 @@ in __web development__ (front-end, back-end, fullstack),
 __cybersecurity__, __systems development__, __programming languages__
 and a lot of other programming-related topics.
 
+## GitHub Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it1shka)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Table of contents
 - [Education](#education)
 - [Portfolio](#portfolio)
