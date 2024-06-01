@@ -8,7 +8,7 @@ and a lot of other programming-related topics.
 
 ## GitHub Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it1shka)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it1shka&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it1shka&hide=Jupyter+Notebook&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Table of contents
 - [Education](#education)
